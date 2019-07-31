@@ -1,7 +1,0 @@
-Qty Value               Device                     Parts                             
-1                       27C512D-MINIMAL-OUTLINE    IC1                               
-1                       COCO3-CARTRIDGE-PLUG-SHORT CN4                               
-1   .47uF               NP-CAPACITOR-C050-025X075  C1                                
-1   1X02-SIP-100-32     1X02-SIP-100-32            CN2                               
-1   1X03-SIP-100-32     1X03-SIP-100-32            CN3                               
-6   GROUNDING-STAND-OFF GROUNDING-STAND-OFF        GND1, GND2, GND3, GND4, GND5, GND6
